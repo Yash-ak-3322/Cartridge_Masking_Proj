@@ -1,0 +1,24 @@
+{
+  "name": "scan_1",
+  "primer_circle": {
+    "cx": 255.8,
+    "cy": 254.2,
+    "r": 203.4,
+    "detected": true
+  },
+  "drag": {
+    "origin": [
+      236.0,
+      239.9
+    ],
+    "angle_deg": 39.0,
+    "length_px": 71.1
+  },
+  "areas_px": {
+    "BREECH_FACE": 93638,
+    "APERTURE_SHEAR": 1075,
+    "FIRING_PIN_SHEAR": 3024,
+    "FIRING_PIN_IMPRESSION": 2604
+  },
+  "warnings": []
+}

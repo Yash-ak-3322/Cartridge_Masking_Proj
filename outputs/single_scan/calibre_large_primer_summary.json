@@ -1,0 +1,24 @@
+{
+  "name": "calibre_large_primer",
+  "primer_circle": {
+    "cx": 257.2,
+    "cy": 255.8,
+    "r": 225.0,
+    "detected": true
+  },
+  "drag": {
+    "origin": [
+      282.8,
+      245.9
+    ],
+    "angle_deg": 160.4,
+    "length_px": 77.3
+  },
+  "areas_px": {
+    "BREECH_FACE": 114623,
+    "APERTURE_SHEAR": 1337,
+    "FIRING_PIN_SHEAR": 3624,
+    "FIRING_PIN_IMPRESSION": 3106
+  },
+  "warnings": []
+}

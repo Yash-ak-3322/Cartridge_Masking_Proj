@@ -1,0 +1,24 @@
+{
+  "name": "fused",
+  "primer_circle": {
+    "cx": 255.8,
+    "cy": 255.8,
+    "r": 203.4,
+    "detected": true
+  },
+  "drag": {
+    "origin": [
+      236.0,
+      239.9
+    ],
+    "angle_deg": 39.5,
+    "length_px": 72.6
+  },
+  "areas_px": {
+    "BREECH_FACE": 93624,
+    "APERTURE_SHEAR": 1169,
+    "FIRING_PIN_SHEAR": 3135,
+    "FIRING_PIN_IMPRESSION": 2705
+  },
+  "warnings": []
+}
